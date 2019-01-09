@@ -1,6 +1,6 @@
 # Repeaty
 
-`Repeaty` is a python module designed for speed up the re-execute of functions, with the backend of `pickle`, aiming at saving time.
+`Repeaty` is a python module designed for speeding up the re-execute of functions, with the backend of `pickle`, aiming at saving time.
 
 The technique is quite easy to understand: Save the result of each function call, and reuse them in the same function call.
 
